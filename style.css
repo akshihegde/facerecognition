@@ -1,0 +1,21 @@
+body {
+    background: linear-gradient(rgb(228, 184, 191),rgb(253, 253, 253));
+    }
+    .heading{
+    width: 80%;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'MonteCarlo', cursive;
+    }
+    .all_of_faces{
+    font-size: 25px;
+    font-family: 'PT Serif', serif;
+    }
+    #camera{
+    border: 3px ridge black;
+    width: 350px;
+    height: 300px;
+    }
+    #result_face_identity,#result_face_accuracy{
+    font-family: 'PT Sans Narrow',sans-serif; 
+    }
